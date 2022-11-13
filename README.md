@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=29B6F6&height=120&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=36&pause=1000&color=29B6F6&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Gabriel+Vasconcelos++;a+Student+of+Computer+Science+at+UFCG)](https://git.io/typing-svg)
 
 <div align="center">
@@ -34,5 +36,3 @@
 <div/>
   <br>
 <div/>
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=29B6F6&height=120&section=footer"/>
