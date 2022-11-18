@@ -7,7 +7,7 @@ Computer Science Student at **@UFCG.**
 
 Enthusiast of **Front-End** technologies & Passionate about Games.
 
-Currently studying React & NodeJS, making projects, to become a FullStack Developer.
+Currently studying **React & NodeJS,** making projects, to become a **FullStack Developer.**
 
 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E2DE2&height=120&section=footer"/>
