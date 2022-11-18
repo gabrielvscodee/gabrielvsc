@@ -1,39 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=29B6F6&height=120&section=header"/>
+# Hi, I'm Gabriel de Vasconcelos 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=36&pause=1000&color=29B6F6&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Gabriel+Vasconcelos++;a+Student+of+Computer+Science+at+UFCG)](https://git.io/typing-svg)
+Computer Science Student at **@UFCG.**
 
-<div align="center">
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-8E2DE2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielvcesario/)](https://www.linkedin.com/in/gabrielvcesario/) 
+[![Gmail Badge](https://img.shields.io/badge/-EMail-8E2DE2?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gabriel.cesario@ccc.ufcg.edu.br)](mailto:gabriel.cesario@ccc.ufcg.edu.br)
 
-  ### 🖥️ Main skills 
-  <br>
-  
-  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-  <br>
- 
-  ### ⚙️ Tools 
-  <br>
-  
-  ![Visual Studio](https://img.shields.io/badge/-Vscode-0D1117?style=for-the-badge&logo=visual-studio&logoColor=0078d7&labelColor=0D1117)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-  <br>
-  
-  ### 💻 Other Knowledge 
-  <br>
-  
-  ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
-  ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-  <br>
-  
-  ### 📚 Studying in this moment 
-  <br>
-  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-  ![React](https://img.shields.io/badge/-REACT-0D1117?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=0D1117)&nbsp;
-  ![NodeJS](https://img.shields.io/badge/-NodeJs-0D1117?style=for-the-badge&logo=node.js&logoColor=68A063&labelColor=0D1117)&nbsp;
-<div/>
-  <br>
-<div/>
+Enthusiast of **Front-End** technologies & Passionate about Games.
+
+Currently studying React & NodeJS, making projects, to become a FullStack Developer.
+
+"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E2DE2&height=120&section=footer"/>
