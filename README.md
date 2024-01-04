@@ -1,11 +1,12 @@
 # Hi, I'm Gabriel de Vasconcelos 
 
-**Full-Stack** Developer & Computer Science Student at **@UFCG.**
+**Full-Stack** Developer at **@IEL** & Computer Science Student at **@UFCG.**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-432e54?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielvcesario/)](https://www.linkedin.com/in/gabrielvcesario/) 
 [![Gmail Badge](https://img.shields.io/badge/-EMail-432e54?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gabriel.cesario@ccc.ufcg.edu.br)](mailto:gabriel.cesario@ccc.ufcg.edu.br)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-432e54?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/gabrielvscode)](https://twitter.com/gabrielvscode)
 
-Enthusiast of **Front-End** technologies & Passionate about Games. Currently studying **Software Engineer**, **Data Structures & Algorithms** and making personal projects.
+Enthusiast of **Front-End** technologies & Passionate about **Software Engineering**. Currently studying **Data Structures & Algorithms** and making personal projects.
 
 ## Currently Reading:
 
