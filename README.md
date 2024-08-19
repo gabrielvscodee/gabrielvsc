@@ -1,17 +1,11 @@
-# Hi, I'm Gabriel de Vasconcelos 
+# 👋 Hi, I'm Gabriel de Vasconcelos
 
-**Full-Stack** Developer at **@IEL** & Computer Science Student at **@UFCG.**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-432e54?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielvcesario/)](https://www.linkedin.com/in/gabrielvcesario/) 
-[![Gmail Badge](https://img.shields.io/badge/-EMail-432e54?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gabriel.cesario@ccc.ufcg.edu.br)](mailto:gabriel.cesario@ccc.ufcg.edu.br)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-432e54?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/gabrielvscode)](https://twitter.com/gabrielvscode)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0b5278?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielvcesario/)](https://www.linkedin.com/in/gabrielvscode/) 
+[![Gmail Badge](https://img.shields.io/badge/-EMail-0b5278?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gabriel.cesario@ccc.ufcg.edu.br)](mailto:gabriel.cesario@ccc.ufcg.edu.br)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-0b5278?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/gabrielvscode)](https://twitter.com/gabrielvscode)
 
-Enthusiast of **Front-End** technologies & Passionate about **Software Engineering**. Currently studying **Data Structures & Algorithms** and making personal projects.
+I am a `Database Administrator (DBA)` and `SQL Query Developer`, working with `TOTVS ERP` and `SQL Server` at **@FIEPB**. I manage and optimize databases, ensuring availability and integrity, and develop SQL queries to extract and organize data for the company.
 
-## Currently Reading:
 
-[![Engenharia de Software Moderna](https://img.shields.io/badge/-engenharia%20de%20software%20moderna-432e54?style=for-the-badge&logo=codeium&logoColor=white&link=https://engsoftmoderna.info/)](https://engsoftmoderna.info/) 
-[![Learning JavaScript Data Structures and Algorithms](https://img.shields.io/badge/-learning%20javascript%20data%20structure%20and%20algorithms-432e54?style=for-the-badge&logo=javascript&logoColor=white&link=https://www.amazon.com/Learning-JavaScript-Data-Structures-Algorithms/dp/1788623878)](https://www.amazon.com/Learning-JavaScript-Data-Structures-Algorithms/dp/1788623878) 
-[![Grokking Algorithms](https://img.shields.io/badge/-grokking%20algorithms-432e54?style=for-the-badge&logo=editorconfig&logoColor=white&link=https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=432e54&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a75ad&height=120&section=footer"/>
